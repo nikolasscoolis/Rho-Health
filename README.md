@@ -9,4 +9,5 @@ For future quarterly business meetings, Rho Health would like to have a more tho
 
 # Tableau Dashboard
 
-![Dashboard 1](https://github.com/user-attachments/assets/a97982cb-8945-4a16-9e63-2a46561343c9)
+![image](https://github.com/user-attachments/assets/3fd0912d-b60a-48c1-a605-f7fdc4a81089)
+
